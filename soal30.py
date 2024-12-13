@@ -7,4 +7,4 @@ def linkgkaran():
 
     print(hasil())
 linkgkaran()
-linkgkaran()*
+linkgkaran()
